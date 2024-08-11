@@ -14,6 +14,7 @@ The project consists of three main files and an images directory with subfolders
 4) images/: The directory contains all the images used in the project. It has two subfolders:
 
 girls/: Contains images of women's wear and logo.png, main.png.
+
 Mens/: Contains images of men's wear.
 
 How to Use 
