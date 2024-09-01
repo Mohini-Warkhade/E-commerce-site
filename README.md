@@ -1,8 +1,8 @@
 # E-commerce-site
-Trendy Fashion Website : 
+## Trendy Fashion Website : 
 This project is a simple and elegant fashion website that showcases trendy clothing items for men and women. The website is designed to provide users with an engaging browsing experience, featuring various sections like Men's Wear, Women's Wear, and Limited Stock. The project uses HTML, CSS, and JavaScript for the frontend.
 
-Project Structure
+## Project Structure
 
 The project consists of three main files and an images directory with subfolders:
 
@@ -18,7 +18,7 @@ girls/: Contains images of women's wear and logo.png, main.png.
 
 Mens/: Contains images of men's wear.
 
-How to Use 
+## How to Use 
 
 1) Clone this repository to your local machine.
 2) Open the index.html file in a web browser to view the website.
