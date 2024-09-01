@@ -3,6 +3,7 @@ Trendy Fashion Website :
 This project is a simple and elegant fashion website that showcases trendy clothing items for men and women. The website is designed to provide users with an engaging browsing experience, featuring various sections like Men's Wear, Women's Wear, and Limited Stock. The project uses HTML, CSS, and JavaScript for the frontend.
 
 Project Structure
+
 The project consists of three main files and an images directory with subfolders:
 
 1) index.html: This is the main HTML file that structures the webpage. It includes navigation, search bar, product sections, and a dynamic image slider.
